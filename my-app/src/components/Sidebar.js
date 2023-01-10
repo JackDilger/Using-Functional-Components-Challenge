@@ -11,4 +11,5 @@ const FunctionalSidebar = () => {
     );
 }
 
+
 export default FunctionalSidebar;
